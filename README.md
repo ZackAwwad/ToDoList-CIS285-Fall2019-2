@@ -2,3 +2,4 @@
 // Project Leader - Zack Awwad
 // QA - Kerry Williams
 // UI Dev - Chathura Paturu
+// Dev - Duncan Reed
